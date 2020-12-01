@@ -45,8 +45,8 @@ p {
 }
 
 a {
-    color: #ea00ff;
-    font-family: fantasy;
+    color: rgb(167,245,139);
+    font-family: 'Bradley Hand', cursive;
     text-decoration: none;
     font-size: 100%;
     transition: 1s;
@@ -83,18 +83,18 @@ a:hover {
     animation: shape 1s infinite ease-in-out;
     position: relative;
     padding: 50px 0px 20px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Bradley Hand', cursive;
 }
 @keyframes shape{
     0%{
-        background: rgb(82, 255, 197);
+        background: rgb(235,217,97);
         border-bottom-right-radius: 1000%;
         border-top-left-radius: 1000%;
         border-bottom-left-radius: 0%;
         border-top-right-radius: 0%;
     }
     50%{
-        background: rgb(0, 68, 255);
+        background: rgb(242,119,131);
         opacity: 50%;
         border-bottom-right-radius: 0%;
         border-top-left-radius: 0%;
@@ -102,7 +102,7 @@ a:hover {
         border-top-right-radius: 1000%;
     }
     100%{
-        background: rgb(102, 236, 191);
+        background: rgb(222,53,252);
         border-bottom-right-radius: 1000%;
         border-top-left-radius:1000%;
         border-bottom-left-radius:0%;

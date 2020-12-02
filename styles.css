@@ -140,7 +140,8 @@ a:hover {
     width: 50%;
     margin: 100px auto;
     text-align: left;
-    margin-bottom: -200px;
+    margin-right: -100px;
+    margin-bottom: -100px;
 }
 
 .intro {

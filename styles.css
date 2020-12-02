@@ -21,15 +21,15 @@ h1 {
 }
 
 h2 {
-    font-weight: normal;
-    color: #ff00c8;
-    font-family: fantasy;
+    font-weight: bold;
+    color: #f00008;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
     padding-bottom: 10px;
 }
 
 h3 {
-    color: #ea05ff;
-    font-family: fantasy;
+    color: #f00008;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
 }
 
 hr {
@@ -151,6 +151,7 @@ a:hover {
 .contact-message {
     width: 40%;
     margin: 40px auto;
+    color: rgb(500, 230, 40);
 }
 
 .copyright {
